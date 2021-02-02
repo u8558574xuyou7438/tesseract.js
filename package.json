@@ -66,7 +66,7 @@
     "jpeg-autorotate": "^7.1.1",
     "node-fetch": "^2.6.0",
     "opencollective-postinstall": "^2.0.2",
-    "regenerator-runtime": "^0.13.3",
+    "regenerator-runtime": "^0.13.7",
     "resolve-url": "^0.2.1",
     "tesseract.js-core": "^2.2.0",
     "zlibjs": "^0.3.1"
